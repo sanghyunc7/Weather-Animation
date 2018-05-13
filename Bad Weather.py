@@ -135,8 +135,7 @@ def Main():
     for i in range(100):    
         Storm()
 
-print("Warning! May cause seizure from flashing light patterns!")
-print("Viewer discretion is advised.") #backwards slash shows up as \
+print("Warning! May cause seizure from flashing light patterns! \n Viewer discretion is advised.") 
 sleep(3)
       
 while True:
